@@ -1,0 +1,5 @@
+.venv/
+.idea/
+logs/
+ecommerce_analytics_v2/target/
+ecommerce_analytics_v2/dbt_packages/
